@@ -1,0 +1,2 @@
+C:\Users\gusbr\source\repos\TwatWaffle\Debug\TwatWaffle.exe
+C:\Users\gusbr\source\repos\TwatWaffle\Debug\TwatWaffle.pdb
